@@ -1,0 +1,58 @@
+.main_body {
+  margin: 0;
+  padding: 0;
+  font-family: century Gothic;
+  background-image: url(../Img/bg06.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+
+ul {
+  float: right;
+  list-style-type: square;
+  margin-top: 10px;
+}
+
+ul li {
+  display: inline-block;
+}
+
+ul li a {
+  text-decoration: underline;
+  color: white;
+  text-shadow: construction;
+  padding: 5px 20px;
+  border: 3px transparent;
+}
+
+ul li a:hover {
+  background-color: aquamarine;
+  color: black;
+}
+
+h1 {
+  padding-top: 20px;
+  font-size: 30px;
+  font-family: sans-serif;
+  color: black;
+}
+
+.btn {
+  border: 2px solid #3498db;
+  background: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  font-family: "times new roman"
+}
+
+.main {
+  max-width: 1500px;
+  margin: auto;
+}
+
+.title {
+  color: white;
+  font-size: 25px;
+}
